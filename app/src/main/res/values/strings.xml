@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EPFInvestment</string>
+    <string name="date">Date</string>
+    <string name="age">Age</string>
+    <string name="min_savings">Min. Savings</string>
+    <string name="epf_amount">EPF Amount</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="reset">RESET</string>
+    <string name="birthdate">birthDate</string>
+</resources>
