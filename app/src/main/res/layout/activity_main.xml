@@ -85,7 +85,7 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:textAlignment="center"
-        android:textColor="@android:color/holo_blue_bright"
+        android:textColor="@android:color/holo_red_dark"
         android:textSize="18sp"
         app:layout_constraintBaseline_toBaselineOf="@+id/EPFAmount"
         app:layout_constraintEnd_toEndOf="parent" />
